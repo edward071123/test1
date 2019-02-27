@@ -1,0 +1,8 @@
+.test{
+  
+}
+
+.test1{
+  -webkit-writing-mode: vertical-lr;
+  writing-mode: vertical-lr;
+}
